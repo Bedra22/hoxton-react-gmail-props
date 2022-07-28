@@ -21,8 +21,6 @@ const getStarredEmails = (emails: Email[]) =>
 function App() {
 
 
-
-
   const [emails, setEmails] = useState(initialEmails);
   const [hideRead, setHideRead] = useState(false);
   const [currentTab, setCurrentTab] = useState("inbox");
