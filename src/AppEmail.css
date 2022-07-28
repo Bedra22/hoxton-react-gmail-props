@@ -43,6 +43,7 @@
 }
 
 .email .star-checkbox:checked::before,
+
 .email .star-checkbox::before {
     content: '';
     background-size: cover;
