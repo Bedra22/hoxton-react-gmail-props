@@ -1,4 +1,4 @@
-import { LMInbox } from "./LMinbox";
+import { LMInbox } from "./LMInbox";
 import { LMHideRead } from "./LMHideRead";
 import { LMStarred } from "./LMStarred";
 import { Dispatch, SetStateAction } from "react";

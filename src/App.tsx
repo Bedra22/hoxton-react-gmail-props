@@ -3,6 +3,8 @@ import { useState } from "react";
 import initialEmails, { Email } from "./data/emails";
 
 import "./App.css";
+import "./AppHeader.css";
+import "./AppEmail.css";
 import { Header } from "./components/Header";
 import { LeftMenu } from "./components/LeftMenu";
 import { Main } from "./components/Main";
